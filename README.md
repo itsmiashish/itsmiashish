@@ -3,7 +3,7 @@
 
   <img align="right" alt="coding" width="300" height="300" src="https://seego.vercel.app/assets/giphy-2a59df92.gif" alt="Ashsih" />
 
-<p align="left">My name is   Ashish and I'm a Passionate FrontEnd Devloper , from India</p>
+<p align="left">My name is   Ashish and I'm a Passionate Full Stack Devloper , from India</p>
 
 ### 
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left"><br>📚 I'm currently learning React ,Asp.net,Courses etc<br>🎯 Goals: FullStackDevloper <br></p>
+<p align="left"><br>📚 I'm currently learning React ,Java FullStack Courses etc<br>🎯 Goals: FullStackDevloper <br></p>
 
 ###
 
